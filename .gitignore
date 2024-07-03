@@ -1,0 +1,4 @@
+.idea
+/teamsAppManifest
+*.DS_Store
+/target
